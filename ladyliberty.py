@@ -2,7 +2,7 @@
 # Instructions: 
 # 1. Remeber to add your <TOKEN> at line 95
 # 2. Remember to pip install -r requirements.txt    
-# ~ at0xc00007b, with ❤️
+# ~ err0xc000007b, with ❤️
 
 import discord 
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
@@ -33,7 +33,7 @@ f'''**COMMANDS LIST**
 -----------------------------------------------------------------------------------------------------
 \t6\t|\t{PREFIX}8ball\t\tKnow the certainty. [ `{PREFIX}8ball <statement>` ]
 -----------------------------------------------------------------------------------------------------
-~ at0xc00007b, with ❤️''')
+~ err0xc000007b, with ❤️''')
 
     async def rules(message):
         try: 
