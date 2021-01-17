@@ -1,6 +1,6 @@
 # ladyliberty.py 
 # Instructions: 
-# 1. Remeber to add your <TOKEN> in line 95
+# 1. Remeber to add your TOKEN in line 95
 # 2. Remember to pip install -r requirements.txt    
 # ~ err0xc000007b, with ❤️
 
